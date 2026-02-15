@@ -5,13 +5,13 @@ CreditWise Loan System is a supervised machine learning project that predicts wh
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 Financial institutions receive many loan applications daily. Manual verification is slow, inconsistent, and error-prone.  
 This project uses **supervised machine learning** to automatically predict loan approval outcomes based on applicant data.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Automate the loan approval process
 - Reduce financial risk
 - Improve decision accuracy
@@ -19,7 +19,7 @@ This project uses **supervised machine learning** to automatically predict loan 
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 - **Type:** Supervised Learning
 - **Problem:** Classification
 
@@ -30,7 +30,7 @@ This project uses **supervised machine learning** to automatically predict loan 
 
 ---
 
-## 📊 Dataset Features
+##  Dataset Features
 - Applicant Income
 - Coapplicant Income
 - Credit Score
@@ -50,7 +50,7 @@ This project uses **supervised machine learning** to automatically predict loan 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -61,7 +61,7 @@ This project uses **supervised machine learning** to automatically predict loan 
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 1. Data Collection
 2. Data Preprocessing
 3. Feature Encoding
